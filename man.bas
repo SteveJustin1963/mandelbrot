@@ -1,4 +1,4 @@
-5 REM *** MANDELBROT SET ***
+5 REM *** MANDELBROT SET , https://www.facebook.com/groups/tec1z80/posts/1797061804136194/?comment_id=1797065120802529 ***
 10 F = 50
 20 FOR Y = -12 TO 12
 30 FOR X = -49 TO 29
