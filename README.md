@@ -1,6 +1,8 @@
-# mandelbrot
+work in progress not tested
 
-Certainly! I'll rewrite the Mandelbrot set program in MINT, combining elements from the Forth and BASIC versions you've provided. This program will output ASCII characters to a serial terminal, creating a visual representation of the Mandelbrot set.
+# Mandelbrot 
+
+This program will output ASCII characters to a serial terminal, creating a visual representation of the Mandelbrot set.
 
 
 
